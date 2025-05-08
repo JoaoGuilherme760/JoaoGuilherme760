@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**JoaoGuilherme760/JoaoGuilherme760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is João Guilherme Teles ✋
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)]()                                                                                                          [![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](www.linkedin.com/in/joão-guilherme-4793b7358)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+
+Technologies that I use every day
+
+<div sytle="display:inline block"><br/>
+<img align="center" alt="python"scr="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></div>
+<img align="center" alt="html"scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></div>
+<img align="center" alt="css"scr="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></div>
+<img align="center" alt="java script"scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></div>
+
+Tecnologia eficiente. Código limpo. Impacto real.
+
