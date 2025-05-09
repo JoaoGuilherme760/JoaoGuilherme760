@@ -5,7 +5,6 @@ Hello! My name is João Guilherme Teles ✋
 
 ![telesGitHub stats](https://github-readme-stats.vercel.app/api?username=teles&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
 Technologies that I use every day
 
 <div sytle="display:inline block"><br/>
