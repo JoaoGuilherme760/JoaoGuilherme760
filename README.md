@@ -2,7 +2,7 @@ Hello! My name is João Guilherme Teles ✋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogtelesdev)                                                              [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telesdev1234)
 
-[![Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=Teles)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teles&layout=compact)
 
 Technologies that I use every day
