@@ -13,5 +13,5 @@ Technologies that I use every day
 <img align="center" alt="css"scr="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="java script"scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></div>
 
-Tecnologia eficiente. Código limpo. Impacto real.
+Escrevendo código com propósito, não só por função.
 
